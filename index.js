@@ -26,7 +26,7 @@ function startGame(){
             document.querySelector("h1").textContent = "Refresh Me";
           }
           
-          var diceRoll = new Audio('sound/rolling.mp3');
+          var diceRoll = new Audio('sound/rollling.mp3');
           diceRoll.play();
 
 }
